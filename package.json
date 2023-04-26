@@ -1,0 +1,28 @@
+{
+  "name": "datastrict-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhtuan9414/datastrict-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhtuan9414/datastrict-setup/issues"
+  },
+  "homepage": "https://github.com/anhtuan9414/datastrict-setup#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.3",
+    "faker": "^5.5.3",
+    "interval-promise": "^1.4.0",
+    "lodash": "^4.17.21",
+    "pm2": "^5.0.4",
+    "puppeteer": "^10.0.0"
+  }
+}

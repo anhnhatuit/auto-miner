@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  datastrict:
+    build: .
+    image: datastrict:v1.1
+    container_name: datastrict
